@@ -1,0 +1,12 @@
+Package: com.EnlightenediOS12
+Name: Enlightened iOS 12
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enlightened iOS 9 Theme Icon Support for iOS 12
+Homepage: https://github.com/iOSMazux/iOSMazux
+Depiction: https://github.com/iOSMazux/iOSMazux
+Maintainer: iOSMazux
+Author: Axinen
+Sponsor: none
+Section: Themes
+Depends: none

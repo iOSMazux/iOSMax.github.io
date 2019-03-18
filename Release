@@ -1,0 +1,8 @@
+Origin: iOSMazux.repo
+Label: Enlightened iOS 12
+Suite: stable
+Version: 1.0
+Codename: stable
+Architectures: iphoneos.arm
+Components: main
+Description: Enlightened iOS 9 Theme Icon Support for iOS 12
